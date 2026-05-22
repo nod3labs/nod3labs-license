@@ -1,3 +1,4 @@
 {
-  "installer_enabled": true
+  "installer_enabled": true,
+  "salt_repo": "https://github.com/nod3labs/salt/blob/main/salt.json"
 }
