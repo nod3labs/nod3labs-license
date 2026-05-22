@@ -1,4 +1,4 @@
 {
-  "installer_enabled": false,
+  "installer_enabled": true,
   "salt_url": "https://raw.githubusercontent.com/nod3labs/salt/refs/heads/main/salt.json"
 }
